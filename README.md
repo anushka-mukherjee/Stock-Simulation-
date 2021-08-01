@@ -1,2 +1,4 @@
 # Stock-Simulation-
-Worked with two other people for our final project in CS3110 @Cornell
+This is a project aimed to simulate trading and allows the user to invest in stocks, index funds and cds. The project simulates a real-life stock market on a smaller scale, with data drawn from Yahoo Finance. The user starts with a set amount of cash, and the market continues for 20 years (where each second is scaled to be a day). The user can buy and sell any of their investments throughout the course of the game. There is also a competing bot which is also investing with the same amout of money. The incentive for the user is to make smart investments to try to ‘beat the market’ by trying to earn more than the bot which will only invest money into the index fund.  When time runs out, whoever made the larger profit is declared winner.
+
+(This was the final project for CS 3110 (@Cornell), where I worked with two others: Josue Garcia and Joey Morquecho
